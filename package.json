@@ -1,6 +1,6 @@
 {
   "name": "callbag-buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "👜 Callbag operator which buffers source values until separator stream emits.",
   "main": "dist/callbag-buffer.js",
   "module": "dist/callbag-buffer.esm.js",
