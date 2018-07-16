@@ -1,5 +1,4 @@
 import forEach from 'callbag-for-each'
-import fromIter from 'callbag-from-iter'
 import pipe from 'callbag-pipe'
 import subject from 'callbag-subject'
 
