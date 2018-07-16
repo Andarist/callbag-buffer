@@ -18,7 +18,7 @@ pipe(
   map(() => Math.floor(Math.random() * 100))
   buffer(fromEvent(btn, 'click')),
   forEach(values => {
-  	console.log(values) // [86, 93, 57, 64] ...
+    console.log(values) // [86, 93, 57, 64] ...
   })
 )
 ```
